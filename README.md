@@ -1,5 +1,7 @@
 # FRONT v1.0 — Lean audit companion
 
+> **Current home:** [FRONT in PAL-Lean-Audit](https://github.com/Grativy6/PAL-Lean-Audit/tree/main/projects/FRONT). The [shared paper and receipt index](https://github.com/Grativy6/PAL-Lean-Audit/blob/main/papers/INDEX.md) brings the collection together. This repository retains the original published history and citation paths.
+
 A mathematical companion to **FRONT — The Unclosed Dependency: Correction at the Next-Cut Seam**, by Christopher D. Pang. Read the [paper](Publication/FRONT_v1.0.pdf), its [editable text and mathematics](Publication/FRONT_v1.0.md), and the [publication concordance](Publication/source-concordance.json). The paper's DOI is [10.5281/zenodo.23139301](https://doi.org/10.5281/zenodo.23139301); reserving that identifier does not itself confirm the Zenodo deposit is live.
 
 The original audit is bound to the supplied v1.0 archive, SHA-256 `e82195a52d3b65dcca8e6a16b1055c9772d43aa2ebecea6a4a5cd1409167fd9c`. Publication edits preserve the mathematics and update the presentation and proof-coverage account. Historical receipts keep their original source identity.
